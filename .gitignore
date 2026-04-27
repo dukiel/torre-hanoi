@@ -1,0 +1,39 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+a.out
+*.bin
+app
+main
+
+# Libraries
+*.lib
+*.a
+*.dll
+*.so
+
+# Debugging files
+*.dSYM/
+*.su
+*.gch
+
+# Build directories and logs
+build/
+/build/
+/Release/
+/Debug/
+*.log
+*.swp
+
+# IDEs e Pastas do Projeto
+.vscode/
+.vs/
+out/
+
+# CMake
+
+Makefile
